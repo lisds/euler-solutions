@@ -1,4 +1,6 @@
 import numpy as np
+
+
 threes = np.sum(
     np.arange(0, 1000, 3)
     )
